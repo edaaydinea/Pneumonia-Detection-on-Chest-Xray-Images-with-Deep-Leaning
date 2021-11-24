@@ -7,6 +7,7 @@ The dataset of this project is obtained from the [Kaggle - Chest X-ray Images(Pn
 
 Note: The data sets to be used in the project comply with the health-ethical rules and are suitable for use as a license.
 
+Notevook : [Link](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/pneumonia_detection_new.ipynb)
 
 ## A. BUSINESS UNDERSTANDING
 
