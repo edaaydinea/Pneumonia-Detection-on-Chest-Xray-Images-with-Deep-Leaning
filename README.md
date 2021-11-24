@@ -51,6 +51,8 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 ![normal-pneumonia-images](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/normal-pneumonia%20image%20visualization.png)
 
+**Plotting the Distribution with Bar and Pie Chart)**
+
 ![distribution-with-bar](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/data%20distribution%20with%20bar.png)
 
 ![distribution-with-pie](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/data%20distribution%20with%20pie.png)
