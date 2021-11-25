@@ -1,4 +1,4 @@
-# Pneumonia Detestion on Chest X-ray Images with Deep Learning (Keras)
+# Pneumonia Detection on Chest X-ray Images with Deep Learning (Keras)
 This repository includes the slides and coding parts for this project.
 
 This project is carried out by *Eda AYDIN, Nesibe Betül DÖNER, Okan TOPAL, Berkay DİRİL* under the supervision of *Engin Deniz ALPMAN* in the **[Data Science for the Public Good program](https://www.kodluyoruz.org/bootcamp/data-science-for-the-public-good-istanbul-ankara/)**
