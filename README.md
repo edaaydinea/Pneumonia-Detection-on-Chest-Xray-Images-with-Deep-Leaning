@@ -90,7 +90,7 @@ Bar Chart            |  Pie Chart
 ## E. EVALUATION
 
 **Accuracy and Loss Graphs**
-![accuracy-loss-graphs[(https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/evalaution.png)
+![accuracy-loss-graphs](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning/blob/main/evalaution.png)
 
 **Some of the Correctly Predicted Classes**
 
